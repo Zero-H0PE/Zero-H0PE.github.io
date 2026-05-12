@@ -1,7 +1,6 @@
----
-layout: default
-title: Inicio
----
+## Welcome to GithHUb Pages
+
+Bla bla bla
 
 # ¡Hola, Mundo!
 Este es mi sitio configurado con Jekyll y GitHub Pages. 
